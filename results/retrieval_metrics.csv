@@ -1,0 +1,4 @@
+System,Recall@5,Recall@10,MRR,nDCG@10
+Base Hybrid Retrieval,0.735,0.765,0.658248,0.670770
+Hybrid + Base Cross-Encoder Reranker,0.760,0.770,0.682589,0.689678
+Hybrid + Fine-tuned Legal Reranker,0.760,0.790,0.724250,0.752531
