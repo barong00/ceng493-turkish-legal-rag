@@ -4,7 +4,7 @@ The full dataset files are not included in this repository due to size and acces
 
 The notebooks expect the dataset folder to be available in Colab at:
 
-/content/Datasets_Ceng493_legal_rag/
+[/content/Datasets_Ceng493_legal_rag/](https://drive.google.com/drive/folders/1ak6PC0TV4IbXMwqjZMv73qeiuDb-FLKp?usp=sharing)
 
 Required files:
 - corpus.jsonl
